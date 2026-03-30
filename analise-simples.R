@@ -22,3 +22,5 @@ sd(idade)
 summary(peso)
 sd(peso)
 summary(n_refeicoes_dia)
+sd(n_refeicoes_dia)
+
