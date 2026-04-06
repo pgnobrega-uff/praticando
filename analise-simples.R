@@ -24,3 +24,4 @@ sd(peso)
 summary(n_refeicoes_dia)
 sd(n_refeicoes_dia)
 
+fruta_gosta |> strsplit(',') |> unlist() |> trimws() |> table() |> as.data.frame()
